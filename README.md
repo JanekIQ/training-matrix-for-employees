@@ -107,4 +107,7 @@ All of that affect _training deadline_ in `Training roadmap`.
 ![image](https://github.com/JanekIQ/training-matrix-for-employees/assets/129321529/76562cc0-60da-4cb6-9db6-1cba79e95fef)
 
 This sheet determines which training packages have to be completed by employees at a specific position.
-This show or cover spece to write _training date_ and _training deadline_ in `Training roadmap`.
+This shows or covers space to add _training date_ and _training deadline_ in `Training roadmap`. 
+Shows - when an employee have to complete specific training in a given position
+or
+Covers - when an employee does not need to complete specific training in a given position
