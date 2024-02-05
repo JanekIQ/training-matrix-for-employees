@@ -87,10 +87,24 @@ This function is made using `VBA code`.
         
         Application.EnableEvents = True ' Enable event handling
     End If
-End Sub
+    End Sub
 
 
 
 
 In _training deadline_ in column J, spreadsheet shows if employee has completed the training, or if not, how much time does their have to do so (in days). It also shows employee status - _out of office_ or _after long leave_. To visualize employee status, 
 conditional formatting and different cell colours were used. Cell may stays black if employee doesn't need to take some particular training.
+### `Employees`
+` 
+![image](https://github.com/JanekIQ/training-matrix-for-employees/assets/129321529/679dbf9e-a9ce-4acc-aace-d0afb49fc336)
+
+Here manager of the spreadsheet can input some information about all employees.
+_Employment date_, check if employee is on vacation, when does employee come back to work after longer leave. 
+All of that affect _training deadline_ in `Training roadmap`.
+
+### `Training Matrix`
+
+![image](https://github.com/JanekIQ/training-matrix-for-employees/assets/129321529/76562cc0-60da-4cb6-9db6-1cba79e95fef)
+
+This sheet determines which training packages have to be completed by employees at a specific position.
+This show or cover spece to write _training date_ and _training deadline_ in `Training roadmap`.
